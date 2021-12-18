@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ramin</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **C#, ASP.NET, Blazor**
 
-- 📫 How to reach me **ra1000ishere@outlook.com**
+- 📫 How to reach me **raminquliyev00@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
