@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C#, ASP.NET, Blazor**
 
-- 📫 How to reach me **raminquliyev00@gmail.com**
+- 📫 How to reach me **raminguliyev00@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
