@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **C#, ASP.NET, Blazor**
+- 💬 Ask me about **C#, ASP.NET Core, Blazor**
 
 - 📫 How to reach me **raminguliyev00@gmail.com**
 
